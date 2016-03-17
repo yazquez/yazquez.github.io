@@ -1,0 +1,11 @@
+/* TEAM */
+Web designer: José Pérez Yázquez
+Twitter: @xaxquex
+From: Sevilla, Andalucia, Spain
+
+/* SITE */
+Last update: 2016/03/16
+Language: English
+Doctype: HTML5
+Components: Normalize.css, Foundation Grid
+Software: Sublime Text 2
